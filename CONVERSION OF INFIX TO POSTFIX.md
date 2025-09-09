@@ -84,14 +84,9 @@ expression = input()
 print('infix notation: ',expression)
 
 print('postfix notation: ',infixToPostfix(expression))
-            
-
-
-
-
+```
 # OUTPUT
 <img width="797" height="208" alt="image" src="https://github.com/user-attachments/assets/cb4ab032-39a6-439e-bfe8-5b16b073faa0" />
-
 
 # RESULT
 Thus a python program to convert a given Infix expression to Postfix expression by following the precedence and associative rules has been executed succesfully.
